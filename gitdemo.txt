@@ -1,0 +1,10 @@
+//git  init  项目git备份初始化
+// git config  --global    配置使用者信息
+//git add  ./readme.md   请求存储（git add  命令）（readme  保存的路径）
+// git commit -m  执行存储  （-m 后面需要加入一些说明）
+//git status  查看当前存储状态
+//git --all  -m    一次性直接存储
+// git   ./      添加所以修改文件
+
+//git  log   查看存储日志   
+//git log   --oneline   查看日志精简版
