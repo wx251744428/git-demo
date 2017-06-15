@@ -1,10 +1,10 @@
-//git  init  项目git备份初始化
-// git config  --global    配置使用者信息
-//git add  ./readme.md   请求存储（git add  命令）（readme  保存的路径）
-// git commit -m  执行存储  （-m 后面需要加入一些说明）
-//git status  查看当前存储状态
-//git --all  -m    一次性直接存储
-// git   ./      添加所以修改文件
 
+//1）  	git  init  项目git备份初始化
+// 2） 	git config  --global    配置使用者信息（user.name /email）
+// 3）   	git add   ./需要存储的文件名     (	 git   ./  )不添加名可以存储全部修改过的   
+// 4)         git commit -m  执行存储  （-m 后面需要加入一些说明）
+//5)	git status  查看当前存储状态
+//6)	git --all  -m    一次性直接存储可以省略第3步 直接执行4
+	
 //git  log   查看存储日志   
 //git log   --oneline   查看日志精简版
