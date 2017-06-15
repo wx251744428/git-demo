@@ -5,8 +5,24 @@
 // 4)         git commit -m  执行存储  （-m 后面需要加入一些说明）
 //5)	git status  查看当前存储状态
 //6)	git --all  -m    一次性直接存储可以省略第3步 直接执行4
-	
+
+7)  gitignore  忽略文件
+
+8）git reflog   可以看到所以存储过和删除的版本     git  reset   --hard  加版本号  可以回退到对应版本	
 //git  log   查看存储日志   
 //git log   --oneline   查看日志精简版
 // git  reset   --hard   Head~0    回退到上次存储的文件状态 Head~表示索引   0 上一次  1 是上2次
 
+
+//分支
+//分支  master  用 git  branch dev  命令 创建了dev分支   dev分支名   可自定义    master 系统默认  初始化init时系统创建 
+// 使用  git  branch 查看当前分支数
+//使用  git   merge + 分支名    命令 合并当前分支    
+//当前分支只得是 git  branch 前面带有*的
+//git checkout  切换分枝
+ 
+//总结
+创建分支git  branch
+查看分支git  branch
+合并分支git  merge
+删除分支 git   branch -d
