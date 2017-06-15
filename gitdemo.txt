@@ -26,3 +26,6 @@
 查看分支git  branch
 合并分支git  merge
 删除分支 git   branch -d
+
+
+ssh  上传代码 :  ssh-keygen   -t   rsa   -C   	“25174428@qq.com”		
