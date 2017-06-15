@@ -6,5 +6,5 @@
 //5)	git status  查看当前存储状态
 //6)	git --all  -m    一次性直接存储可以省略第3步 直接执行4
 	
-//git  log   查看存储日志   
-//git log   --oneline   查看日志精简版
+//	git  log   查看存储日志   
+//	git log   --oneline   查看日志精简版
