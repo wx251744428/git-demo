@@ -29,3 +29,8 @@
 
 //ssh  上传代码  push   下载   pull  
 //生成公钥（id——rsa.pub）和私钥 (id_rsa) 指令     ssh-keygen   -t   rsa   -C   “25174428@qq.com” 		
+
+
+//git  remote  add    变量名     可以把地址保存在变量名内（远程地址变量化）  
+
+// push  时  加上 -u（远程仓库绑定）   下次在push时 可以  直接使用 git  push     包括 pull
