@@ -27,5 +27,5 @@
 合并分支git  merge
 删除分支 git   branch -d
 
-
-ssh  上传代码 :  ssh-keygen   -t   rsa   -C   	“25174428@qq.com”		
+//ssh  上传代码  push   下载   pull  
+//生成公钥（id——rsa.pub）和私钥 (id_rsa) 指令     ssh-keygen   -t   rsa   -C   “25174428@qq.com” 		
