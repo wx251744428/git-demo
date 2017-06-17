@@ -1,0 +1,21 @@
+git  clone 
+
+git branch -a 
+
+git branch  xxx
+
+git checkout  xxx
+
+.........
+
+add  commit  pull  push (当前分支)
+
+checkout  主分支 
+
+git merge  xxx  
+
+if（冲突）｛
+1. 手动修改  删除不需要的代码
+2. add  commit  pull  push
+｝
+
